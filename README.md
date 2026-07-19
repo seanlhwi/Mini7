@@ -24,6 +24,6 @@ A macro pad style custom drum pad with seven keys. This idea first reached me af
 
 | Metric | Value |
 |--------|-------|
-| Total Line Items | 13 |
-| Total Component Quantity | 126 |
+| Total Number of Items | 13 |
+| Total Number of Parts | 126 |
 | **Total Cost** | **$59.80** |
